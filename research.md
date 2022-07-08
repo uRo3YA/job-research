@@ -1,8 +1,8 @@
 # **채용공고 리서치(7월 8일 신입 위주)**
 1. [Back-end ](#Front-end,Back-end\채용공고(WEB))    
 2. [DevOps](#DevOps-채용공고)
-3. [링크](#링크\링크)
-## Front-end,Back-end 채용공고(WEB)
+
+## Front-end,Back-end채용공고(WEB)
 
 - 네오케스트
     - 주요업무
