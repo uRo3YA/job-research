@@ -1,4 +1,4 @@
-# **채용공고 리서치**
+# **채용공고 리서치(7월 8일 신입 위주)**
 
 ## Front-end,Back-end 채용공고(WEB)
 
@@ -79,4 +79,3 @@
     - 주요업무
         1. 업무내용: Vrew, vFlat 등 서비스의 백엔드 개발 및 운영 (DevOps)
         2. 업무 관련 기술: GCP/AWS, Linux, MySQL, Python, JavaScript
-    
